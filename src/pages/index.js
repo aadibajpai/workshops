@@ -3,7 +3,6 @@ import React from "react"
 import Layout from "../components/layout"
 import CardContainer from "../components/cardContainer"
 
-
 const Card1 = {
   title: 'Angular With Firebase',
   description: "This is an introduction to the Angular web framework and using Firebase alongside it to handle authentication and storage. Learn about the basic building blocks of Angular and how to get a web app up and running really quickly.",

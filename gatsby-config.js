@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `VandyHacks Workshop`,
+    title: `VandyHacks`,
     description: `VandyHacks Workshop Website`,
     author: `@VandyHacks`,
   },
@@ -15,6 +15,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
